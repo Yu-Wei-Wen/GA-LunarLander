@@ -22,7 +22,6 @@
 import gymnasium as gym
 import numpy as np
 import random
-import GA
 import math
 import copy
 import pickle
